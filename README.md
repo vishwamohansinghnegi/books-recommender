@@ -7,8 +7,6 @@
 
 An intelligent book recommendation engine that provides nuanced suggestions by combining a user's text query, desired genre, and emotional tone.
 
-![image](https://github.com/vishwamohansinghnegi/books-recommender/assets/99912402/100465c0-1eb5-4424-aa69-c6374f4b1d3d)
-
 ## ✨ About The Project
 
 This project leverages modern NLP techniques to create a multi-faceted recommendation system that understands user intent with high precision. Unlike traditional recommenders, it uses a three-stage refinement process to deliver results that match a user's specific mood and interests.
